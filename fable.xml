@@ -1,8 +1,8 @@
 <fable>
   <config font-family="Arial" />
   <page id="inicio">
-    <agent id="gato_rio" x="100" y="350" image="gato_com_peixe.jpg" />
-    <agent id="titulo" x="20" y="40" text="FÁBULA: O GATO E O PEIXE" />
+    <agent id="gato_rio" x="10" y="0" image="gato_com_peixe.jpg" />
+    <agent id="titulo" x="30" y="40" text="FÁBULA: O GATO E O PEIXE" />
     <agent id="texto1" x="30" y="70" text="Era uma vez um gato, que ia atravessando um rio; levava na boca um suculento peixe." />
     <agent id="texto2" x="30" y="100" text="Porém, viu na água do rio a sombra de um peixe, que era muito maior." />
     <agent id="texto3" x="30" y="140" text="Prontamente ele largou seu peixe e mergulhou no rio para pegar o maior." />
