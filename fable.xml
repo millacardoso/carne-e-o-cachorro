@@ -1,78 +1,12 @@
 <fable>
-  <config font-family="Arial" />
-  
-
-  <page id="pagina1" bg_color="#FFA07A">
-    <agent id="gato_titulo" x="250" y="20" image="gato_pescador.jpg" />
-    <agent id="titulo" x="100" y="140" text="FÁBULA: O GATO E O PEIXE"
-      bg_color="#4CAF50" color="#ffffff"
-      animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
-    <agent id="botao1" x="200" y="200" text="Começar História"
-      bg_color="#388E3C" color="#FFFFFF"
-      link="pagina2"
-      animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
-  </page>
-  
-
-  <page id="pagina2" bg_color="#FFA07A">
+  <config font-family="Courier" />
+  <page id="inicio">
+    <agent id="titulo" x="20" y="40" text="FÁBULA: O GATO E O PEIXE" />
+    <agent id="texto1" x="30" y="70" text="Era uma vez um gato, que ia atravessando um rio; levava na boca um suculento peixe." />
+    <agent id="texto2" x="30" y="100" text="Porém, viu na água do rio a sombra de um peixe, que era muito maior." />
+    <agent id="texto3" x="30" y="140" text="Prontamente ele largou seu peixe e mergulhou no rio para pegar o maior." />
+    <agent id="texto4" x="30" y="180" text="Nadou, nadou e não achou nada, e ainda perdeu o peixe que levava." />
+    <agent id="moral" x="30" y="220" text="Moral da história: Nunca deixes o certo pelo duvidoso." />
     <agent id="gato_rio" x="300" y="30" image="gato_com_peixe.jpg" />
-    <agent id="texto1" x="30" y="160" text="Era uma vez um gatinho, que ia atravessando um rio; levava na boca um suculento peixe."
-      bg_color="#A5D6A7" color="#000000"
-      animation="hover-bg-color-[#81C784] hover-color-[#000000]" />
-    <agent id="botao2" x="200" y="220" text="Continuar"
-      bg_color="#388E3C" color="#FFFFFF"
-      link="pagina3"
-      animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
-  </page>
-  
-  
-  <page id="pagina3" bg_color="#FFA07A">
-    <agent id="reflexo_agua" x="280" y="30" image="reflexo_peixe.jpg" />
-    <agent id="texto2" x="30" y="160" text="Porém, viu na água do rio a sombra de um peixe, que parecia muito maior."
-      bg_color="#C8E6C9" color="#000000"
-      animation="hover-bg-color-[#A5D6A7] hover-color-[#000000]" />
-    <agent id="botao3" x="200" y="220" text="O que acontece?"
-      bg_color="#388E3C" color="#FFFFFF"
-      link="pagina4"
-      animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
-  </page>
-  
-  
-  <page id="pagina4" bg_color="#FFA07A">
-    <agent id="gato_mergulha" x="290" y="30" image="gato_mergulhando.png" />
-    <agent id="texto3" x="30" y="160" text="Prontamente ele largou seu peixe e mergulhou no rio para pegar o maior."
-      bg_color="#E8F5E9" color="#000000"
-      animation="hover-bg-color-[#C8E6C9] hover-color-[#000000]" />
-    <agent id="botao4" x="200" y="220" text="E então..."
-      bg_color="#388E3C" color="#FFFFFF"
-      link="pagina5"
-      animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
-  </page>
-  
- 
-  <page id="pagina5" bg_color="#FFA07A">
-    <agent id="gato_triste" x="300" y="30" image="gato_sem_peixe.png" />
-    <agent id="texto4" x="30" y="160" text="Nadou, nadou e não achou nada, e ainda perdeu o peixe que levava."
-      bg_color="#F1F8E9" color="#000000"
-      animation="hover-bg-color-[#DCEDC8] hover-color-[#000000]" />
-    <agent id="botao5" x="200" y="220" text="Ver a Moral"
-      bg_color="#388E3C" color="#FFFFFF"
-      link="pagina6"
-      animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
-  </page>
-  
- 
-  <page id="pagina6" bg_color="#FFA07A">
-    <agent id="sabedoria" x="300" y="20" image="lampada_sabedoria.png" />
-    <agent id="moral" x="30" y="140" text="Moral da história: Nunca deixes o certo pelo duvidoso."
-      bg_color="#FFEB3B" color="#000000"
-      animation="hover-bg-color-[#FDD835] hover-color-[#D32F2F]" />
-    <agent id="botaoFinal" x="150" y="200" text="Recomeçar"
-      bg_color="#FBC02D" color="#000000"
-      link="pagina1"
-      animation="hover-bg-color-[#F9A825] hover-color-[#FFFFFF]" />
-    <agent id="botaoFim" x="280" y="200" text="Fim"
-      bg_color="#FF7043" color="#FFFFFF"
-      animation="hover-bg-color-[#FF5722] hover-color-[#FFFF00]" />
   </page>
 </fable>
