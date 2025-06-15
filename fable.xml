@@ -1,5 +1,5 @@
 <fable>
-  <config font-family="courier" />
+  <config font-family="Arial" />
 
   <!-- Página 1 - Título -->
   <page id="pagina1" bg_gradient="linear-gradient(90deg, #FFA07A, #FF7043, #FF5722)">
@@ -8,7 +8,7 @@
       animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
     <agent id="botao1" x="150" y="200" text="Avançar"
       bg_color="#388E3C" color="#FFFFFF"
-      link="pagina2"
+      goto="pagina2"
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
@@ -19,7 +19,7 @@
       animation="hover-bg-color-[#81C784] hover-color-[#000000]" />
     <agent id="botao2" x="150" y="200" text="Avançar"
       bg_color="#388E3C" color="#FFFFFF"
-      link="pagina3"
+      goto="pagina3"
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
@@ -30,7 +30,7 @@
       animation="hover-bg-color-[#A5D6A7] hover-color-[#000000]" />
     <agent id="botao3" x="150" y="200" text="Avançar"
       bg_color="#388E3C" color="#FFFFFF"
-      link="pagina4"
+      goto="pagina4"
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
@@ -41,7 +41,7 @@
       animation="hover-bg-color-[#C8E6C9] hover-color-[#000000]" />
     <agent id="botao4" x="150" y="200" text="Avançar"
       bg_color="#388E3C" color="#FFFFFF"
-      link="pagina5"
+      goto="pagina5"
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
@@ -52,11 +52,11 @@
       animation="hover-bg-color-[#DCEDC8] hover-color-[#000000]" />
     <agent id="botao5" x="150" y="200" text="Avançar"
       bg_color="#388E3C" color="#FFFFFF"
-      link="pagina6"
+      goto="pagina6"
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
-  <!-- Página 6 - Moral -->
+  
   <page id="pagina6" bg_gradient="linear-gradient(90deg, #FFEB3B, #FDD835, #FBC02D)">
     <agent id="moral" x="30" y="120" text="Moral da história: Nunca deixes o certo pelo duvidoso."
       bg_color="#FFEB3B" color="#000000"
@@ -65,5 +65,4 @@
       bg_color="#FBC02D" color="#000000"
       animation="hover-bg-color-[#F9A825] hover-color-[#FFFFFF]" />
   </page>
-
 </fable>
