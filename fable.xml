@@ -1,9 +1,9 @@
 <fable>
   <config font-family="Arial" />
   
-  
-  <page id="pagina1" bg_gradient="linear-gradient(90deg, #FFA07A, #FF7043, #FF5722)">
-    <img id="gato_titulo" x="250" y="20" src="gato_pescador.png" width="120" height="100" />
+  <!-- Página 1 - Título -->
+  <page id="pagina1" bg_color="#FFA07A">
+    <image id="gato_titulo" x="250" y="20" src="gato_pescador.png" width="120" height="100" />
     <agent id="titulo" x="100" y="140" text="FÁBULA: O GATO E O PEIXE"
       bg_color="#4CAF50" color="#ffffff"
       animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
@@ -13,8 +13,8 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
   
- 
-  <page id="pagina2" bg_gradient="linear-gradient(90deg, #A5D6A7, #81C784, #66BB6A)">
+  <!-- Página 2 - Início da história -->
+  <page id="pagina2" bg_color="#FFA07A">
     <image id="gato_rio" x="300" y="30" src="gato_com_peixe.png" width="150" height="120" />
     <agent id="texto1" x="30" y="160" text="Era uma vez um gatinho, que ia atravessando um rio; levava na boca um suculento peixe."
       bg_color="#A5D6A7" color="#000000"
@@ -25,8 +25,8 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
   
-
-  <page id="pagina3" bg_gradient="linear-gradient(90deg, #C8E6C9, #A5D6A7, #81C784)">
+  <!-- Página 3 - Vê o reflexo -->
+  <page id="pagina3" bg_color="#FFA07A">
     <image id="reflexo_agua" x="280" y="30" src="reflexo_peixe.png" width="160" height="120" />
     <agent id="texto2" x="30" y="160" text="Porém, viu na água do rio a sombra de um peixe, que parecia muito maior."
       bg_color="#C8E6C9" color="#000000"
@@ -37,8 +37,8 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
   
-  
-  <page id="pagina4" bg_gradient="linear-gradient(90deg, #E8F5E9, #C8E6C9, #A5D6A7)">
+  <!-- Página 4 - Decide mergulhar -->
+  <page id="pagina4" bg_color="#FFA07A">
     <image id="gato_mergulha" x="290" y="30" src="gato_mergulhando.png" width="140" height="120" />
     <agent id="texto3" x="30" y="160" text="Prontamente ele largou seu peixe e mergulhou no rio para pegar o maior."
       bg_color="#E8F5E9" color="#000000"
@@ -49,8 +49,8 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
   
-  
-  <page id="pagina5" bg_gradient="linear-gradient(90deg, #F1F8E9, #DCEDC8, #C8E6C9)">
+  <!-- Página 5 - Perde tudo -->
+  <page id="pagina5" bg_color="#FFA07A">
     <image id="gato_triste" x="300" y="30" src="gato_sem_peixe.png" width="130" height="120" />
     <agent id="texto4" x="30" y="160" text="Nadou, nadou e não achou nada, e ainda perdeu o peixe que levava."
       bg_color="#F1F8E9" color="#000000"
@@ -61,8 +61,8 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
   
-  
-  <page id="pagina6" bg_gradient="linear-gradient(90deg, #FFEB3B, #FDD835, #FBC02D)">
+  <!-- Página 6 - Moral da história -->
+  <page id="pagina6" bg_color="#FFA07A">
     <image id="sabedoria" x="300" y="20" src="lampada_sabedoria.png" width="120" height="100" />
     <agent id="moral" x="30" y="140" text="Moral da história: Nunca deixes o certo pelo duvidoso."
       bg_color="#FFEB3B" color="#000000"
