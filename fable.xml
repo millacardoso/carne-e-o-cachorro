@@ -61,7 +61,7 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
   
-  <!-- Página 6 - Moral da história -->
+ 
   <page id="pagina6" bg_color="#FFA07A">
     <agent id="sabedoria" x="300" y="20" image="lampada_sabedoria.png" />
     <agent id="moral" x="30" y="140" text="Moral da história: Nunca deixes o certo pelo duvidoso."
