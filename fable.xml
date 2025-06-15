@@ -1,7 +1,7 @@
 <fable>
   <config font-family="Arial" />
 
-  <!-- Página 1 - Título -->
+
   <page id="pagina1" bg_gradient="linear-gradient(90deg, #FFA07A, #FF7043, #FF5722)">
     <agent id="titulo" x="100" y="60" text="FÁBULA: O GATO E O PEIXE"
       bg_color="#4CAF50" color="#ffffff"
@@ -12,7 +12,7 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
-  <!-- Página 2 -->
+
   <page id="pagina2" bg_gradient="linear-gradient(90deg, #A5D6A7, #81C784, #66BB6A)">
     <agent id="texto1" x="30" y="100" text="Era uma vez um gatinho, que ia atravessando um rio; levava na boca um suculento peixe."
       bg_color="#A5D6A7" color="#000000"
@@ -23,7 +23,7 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
-  <!-- Página 3 -->
+
   <page id="pagina3" bg_gradient="linear-gradient(90deg, #C8E6C9, #A5D6A7, #81C784)">
     <agent id="texto2" x="30" y="100" text="Porém, viu na água do rio a sombra de um peixe, que era muito maior."
       bg_color="#C8E6C9" color="#000000"
@@ -45,7 +45,7 @@
       animation="hover-bg-color-[#2E7D32] hover-color-[#FFFF00]" />
   </page>
 
-  <!-- Página 5 -->
+
   <page id="pagina5" bg_gradient="linear-gradient(90deg, #F1F8E9, #DCEDC8, #C8E6C9)">
     <agent id="texto4" x="30" y="100" text="Nadou, nadou e não achou nada, e ainda perdeu o peixe que levava."
       bg_color="#F1F8E9" color="#000000"
