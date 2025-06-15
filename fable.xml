@@ -3,23 +3,23 @@
 
   <page id="inicio" bg_color="#FFA07A">
   
-    <agent id="titulo" x="150" y="40" text="FÁBULA: O CÃO E A CARNE"
+    <agent id="titulo" x="150" y="40" text="FÁBULA: O GATO E O PEIXE"
       bg_color="#4CAF50" color="#ffffff"
       animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
 
-    <agent id="texto1" x="30" y="100" text="Era uma vez um cão, que ia atravessando um rio; levava na boca um suculento pedaço de carne."
+    <agent id="texto1" x="30" y="100" text="Era uma vez um gatinho, que ia atravessando um rio; levava na boca um suculento peixe."
       bg_color="#A5D6A7" color="#000000"
       animation="hover-bg-color-[#81C784] hover-color-[#000000]" />
 
-    <agent id="texto2" x="30" y="140" text="Porém, viu na água do rio a sombra da carne, que era muito maior."
+    <agent id="texto2" x="30" y="140" text="Porém, viu na água do rio a sombra de um peixe, que era muito maior."
       bg_color="#C8E6C9" color="#000000"
       animation="hover-bg-color-[#A5D6A7] hover-color-[#000000]" />
 
-    <agent id="texto3" x="30" y="180" text="Prontamente ele largou seu pedaço de carne e mergulhou no rio para pegar o maior."
+    <agent id="texto3" x="30" y="180" text="Prontamente ele largou seu peixe e mergulhou no rio para pegar o maior."
       bg_color="#E8F5E9" color="#000000"
       animation="hover-bg-color-[#C8E6C9] hover-color-[#000000]" />
 
-    <agent id="texto4" x="30" y="220" text="Nadou, nadou e não achou nada, e ainda perdeu o pedaço que levava."
+    <agent id="texto4" x="30" y="220" text="Nadou, nadou e não achou nada, e ainda perdeu o peixe que levava."
       bg_color="#F1F8E9" color="#000000"
       animation="hover-bg-color-[#DCEDC8] hover-color-[#000000]" />
 
