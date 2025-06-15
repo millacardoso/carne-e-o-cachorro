@@ -1,12 +1,29 @@
 <fable>
   <config font-family="Arial" />
+
   <page id="inicio">
-    <agent color= "#fffff">
-    <agent id="titulo" x="250" y="40" text="FÁBULA: O CÃO E A CARNE" />
-    <agent id="texto1" x="30" y="70" text="Era uma vez um cão, que ia atravessando um rio; levava na boca um suculento pedaço de carne." />
-    <agent id="texto2" x="30" y="100" text="Porém, viu na água do rio a sombra da carne, que era muito maior." />
-    <agent id="texto3" x="30" y="140" text="Prontamente ele largou seu pedaço de carne e mergulhou no rio para pegar o maior." />
-    <agent id="texto4" x="30" y="180" text="Nadou, nadou e não achou nada, e ainda perdeu o pedaço que levava." />
-    <agent id="moral" x="30" y="220" text="Moral da história: Nunca deixes o certo pelo duvidoso." />
+    <agent id="titulo" x="150" y="40" text="FÁBULA: O CÃO E A CARNE"
+      bg_color="#4CAF50" color="#ffffff"
+      animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
+
+    <agent id="texto1" x="30" y="100" text="Era uma vez um cão, que ia atravessando um rio; levava na boca um suculento pedaço de carne."
+      bg_color="#A5D6A7" color="#000000"
+      animation="hover-bg-color-[#81C784] hover-color-[#000000]" />
+
+    <agent id="texto2" x="30" y="140" text="Porém, viu na água do rio a sombra da carne, que era muito maior."
+      bg_color="#C8E6C9" color="#000000"
+      animation="hover-bg-color-[#A5D6A7] hover-color-[#000000]" />
+
+    <agent id="texto3" x="30" y="180" text="Prontamente ele largou seu pedaço de carne e mergulhou no rio para pegar o maior."
+      bg_color="#E8F5E9" color="#000000"
+      animation="hover-bg-color-[#C8E6C9] hover-color-[#000000]" />
+
+    <agent id="texto4" x="30" y="220" text="Nadou, nadou e não achou nada, e ainda perdeu o pedaço que levava."
+      bg_color="#F1F8E9" color="#000000"
+      animation="hover-bg-color-[#DCEDC8] hover-color-[#000000]" />
+
+    <agent id="moral" x="30" y="260" text="Moral da história: Nunca deixes o certo pelo duvidoso."
+      bg_color="#FFEB3B" color="#000000"
+      animation="hover-bg-color-[#FDD835] hover-color-[#D32F2F]" />
   </page>
 </fable>
