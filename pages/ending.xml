@@ -1,11 +1,11 @@
 <fable>
   <config font-family="Arial" />
   <page id="inicio">
-    <agent id="titulo" x="250" y="40" text="FÁBULA: O CÃO E A CARNE" />
-    <agent id="texto1" x="30" y="70" text="Era uma vez um cão, que ia atravessando um rio; levava na boca um suculento pedaço de carne." />
-    <agent id="texto2" x="30" y="100" text="Porém, viu na água do rio a sombra da carne, que era muito maior." />
-    <agent id="texto3" x="30" y="140" text="Prontamente ele largou seu pedaço de carne e mergulhou no rio para pegar o maior." />
-    <agent id="texto4" x="30" y="180" text="Nadou, nadou e não achou nada, e ainda perdeu o pedaço que levava." />
+    <agent id="titulo" x="250" y="40" text="FÁBULA: O GATO E O PEIXE" />
+    <agent id="texto1" x="30" y="70" text="Era uma vez um gato, que ia atravessando um rio; levava na boca um suculento peixe." />
+    <agent id="texto2" x="30" y="100" text="Porém, viu na água do rio a sombra de um peixe, que era muito maior." />
+    <agent id="texto3" x="30" y="140" text="Prontamente ele largou seu peixe e mergulhou no rio para pegar o maior." />
+    <agent id="texto4" x="30" y="180" text="Nadou, nadou e não achou nada, e ainda perdeu o peixe que levava." />
     <agent id="moral" x="30" y="220" text="Moral da história: Nunca deixes o certo pelo duvidoso." />
   </page>
 </fable>
