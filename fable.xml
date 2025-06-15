@@ -3,7 +3,7 @@
   
   
   <page id="pagina1" bg_gradient="linear-gradient(90deg, #FFA07A, #FF7043, #FF5722)">
-    <image id="gato_titulo" x="250" y="20" src="gato_pescador.png" width="120" height="100" />
+    <img id="gato_titulo" x="250" y="20" src="gato_pescador.png" width="120" height="100" />
     <agent id="titulo" x="100" y="140" text="FÁBULA: O GATO E O PEIXE"
       bg_color="#4CAF50" color="#ffffff"
       animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
