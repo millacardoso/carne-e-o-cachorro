@@ -1,7 +1,8 @@
 <fable>
   <config font-family="Arial" />
 
-  <page id="inicio">
+  <page id="inicio" bg_color="#FFA07A">
+  
     <agent id="titulo" x="150" y="40" text="FÁBULA: O CÃO E A CARNE"
       bg_color="#4CAF50" color="#ffffff"
       animation="hover-bg-color-[#388E3C] hover-color-[#FFFF00]" />
@@ -25,5 +26,6 @@
     <agent id="moral" x="30" y="260" text="Moral da história: Nunca deixes o certo pelo duvidoso."
       bg_color="#FFEB3B" color="#000000"
       animation="hover-bg-color-[#FDD835] hover-color-[#D32F2F]" />
+
   </page>
 </fable>
