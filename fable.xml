@@ -1,6 +1,6 @@
 <fable>
   <config font-family="Arial" />
-  <page id="inicio" bg_color= "#ffccbe" >
+  <page id="inicio" bg_color= "#ffccbe">
     <agent id="cordefundo" />
     <agent id="gato_rio" x="500" y="200" image="gato_com_peixe.jpg" />
     <agent id="titulo" x="300" y="40"  color="#000000" text="FÁBULA: O GATO E O PEIXE" />
